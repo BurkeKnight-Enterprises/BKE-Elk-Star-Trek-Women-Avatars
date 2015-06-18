@@ -1,10 +1,10 @@
-BKE-Elk Modding Women of Star Trek Avatars
+BKE-Elk Women of Star Trek Avatars
 
 Made by: [url=http://www.elkarte.net/community/index.php?action=profile;u=130]BurkeKnight[/url] - [url=http://www.burkeknight.com/]BurkeKnight Enterprises[/url]
 
 These Star Trek Avatars are perfect for any Star Trek fan.
 
-Star Trek®, Star Trek: The Next Generation®, Star Trek: Deep Space Nine®, Star Trek: Voyager®, Star Trek: Enterprise®, and related Star Trek marks are registered trademarks and/or copyrights of Paramount Pictures, CBS, and their respective owners.
+Star TrekÂ®, Star Trek: The Next GenerationÂ®, Star Trek: Deep Space NineÂ®, Star Trek: VoyagerÂ®, Star Trek: EnterpriseÂ®, and related Star Trek marks are registered trademarks and/or copyrights of Paramount Pictures, CBS, and their respective owners.
 
 [center]This work is licensed under an open source BSD-3 clause license.[/center]
 
