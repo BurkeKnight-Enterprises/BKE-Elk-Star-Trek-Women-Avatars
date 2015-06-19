@@ -1,5 +1,14 @@
 <p>BKE-Elk Star Trek Women of Avatars</p>
 <p>Made by: <a href="http://www.elkarte.net/community/index.php?action=profile;u=130">BurkeKnight</a> - <a href="http://www.burkeknight.com/">BurkeKnight Enterprises</a></p>
+<br />
+
+[![Forks](https://img.shields.io/github/forks/BurkeKnight-Enterprises/BKE-Elk-Star-Trek-Women-Avatars.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Elk-Star-Trek-Women-Avatars/network)
+[![Stars](https://img.shields.io/github/stars/BurkeKnight-Enterprises/BKE-Elk-Star-Trek-Women-Avatars.svg)](hhttps://github.com/BurkeKnight-Enterprises/BKE-Elk-Star-Trek-Women-Avatars/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/BurkeKnight-Enterprises/BKE-Elk-Star-Trek-Women-Avatars.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Elk-Star-Trek-Women-Avatars/issues)
+[![Current Release](https://img.shields.io/github/release/BurkeKnight-Enterprises/BKE-Elk-Star-Trek-Women-Avatars.svg)](https://github.com/BurkeKnight-Enterprises/BKE-Elk-Star-Trek-Women-Avatars/releases)
+[![License](https://img.shields.io/pypi/l/Django.svg)](http://opensource.org/licenses/BSD-3-Clause)<br /><br />
+
+
 <p>These Women of Star Trek Avatars are perfect for any Star Trek fan.</p>
 <p>Star Trek®, Star Trek: The Next Generation®, Star Trek: Deep Space Nine®, Star Trek: Voyager®, Star Trek: Enterprise®, and related Star Trek marks are registered trademarks and/or copyrights of Paramount Pictures, CBS, and their respective owners.<br />
 <hr /><br />
