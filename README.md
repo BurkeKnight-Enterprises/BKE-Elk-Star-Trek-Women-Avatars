@@ -1,4 +1,4 @@
-<p>BKE-Elk Star Trek Women of Avatars</p>
+<p>BKE-Elk Women of Star Trek Avatars</p>
 <p>Made by: <a href="http://www.elkarte.net/community/index.php?action=profile;u=130">BurkeKnight</a> - <a href="http://www.burkeknight.com/">BurkeKnight Enterprises</a></p>
 <br />
 
